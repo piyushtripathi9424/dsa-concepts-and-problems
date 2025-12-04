@@ -58,6 +58,7 @@ This roadmap is divided into phases and includes **every concept and problem lis
 * Floyd’s triangle
 * 0/1 triangle
 * Palindromic number triangle
+* 50+ PATTERNS
 
 ### **Beginner P&C (Math Foundation)**
 
